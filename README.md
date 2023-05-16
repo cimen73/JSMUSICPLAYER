@@ -3,4 +3,5 @@
 <hr></hr>
 <h2>Music player that works dynamically with javascript html css on visual studio code platform was made.</h2>
 
+![](music/music.gif)
 
